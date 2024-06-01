@@ -1,21 +1,19 @@
 # /* ****************************************************************** **
 # **                    BraineryWiz TCL version                         **
-# **              by Bijan Sayyafzadeh & Silvia Mazzoni                 **
+# **                      by Bijan Sayyafzadeh                          **
 # **                                                                    **
 # **                                                                    **
-# ** (C) Copyright 2022, Bijan Sayyafzadeh & Silvia Mazzoni             **
-# **       SilviaBrainery.com                                           **
+# ** (C) Copyright 2022, Bijan Sayyafzadeh                              **
 # ** All Rights Reserved.                                               **
 # **                                                                    **
 # ** Commercial use of this program without express permission of the   **
-# ** https://www.silviasbrainery.com/ (BraineryWiz@Gmail.com), is       **
+# ** (BraineryWiz@Gmail.com), is                                        **
 # ** strictly prohibited.  See file 'COPYRIGHT'  in main directory      **
 # ** for information on usage and redistribution,  and for a            **
 # ** DISCLAIMER OF ALL WARRANTIES.                                      **
 # **                                                                    **
 # ** Developed by:                                                      **
 # **   Bijan SayyafZadeh (B.Sayyaf@yahoo.com)                           **
-# **   SilviaMazzoni     (SilviaMazzoni@Yahoo.com)                      **
 # **                                                                    **
 # ** ****************************************************************** */
 
@@ -45,7 +43,7 @@ with open("README.md", "r") as fh:
 setup(
     name="BraineryWiz",
     version=BraineryWiz_version,
-    author="Bijan Sayyafzadeh - Silvia Mazzoni",
+    author="Bijan Sayyafzadeh",
     author_email="<BraineryWiz@Gmail.com>",
     description="OpenSees Plotting Package",
     long_description_content_type="text/markdown",
@@ -58,11 +56,11 @@ setup(
         #"hello": ["*.msg"],
     },
     packages=find_packages(),
-    install_requires=['openseespy', 'eseesminipy','numpy','plotly','scipy','pillow','kaleido','tqdm','ipywidgets'],
-    url="https://github.com/Silvia-s-Brainery/BraineryWiz",
+    install_requires=['openseespy', 'numpy','plotly','scipy','pillow','kaleido','tqdm','ipywidgets'],
+    url="https://github.com/bijanseif/BraineryWiz",
     keywords=['python', 'opensees', 'Modeling', 'Dynamic'],
     classifiers=[
-        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.11',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Operating System :: Microsoft :: Windows'
     ],
