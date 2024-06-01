@@ -1,22 +1,20 @@
 
 # /* ****************************************************************** **
 # **                    BraineryWiz TCL version                         **
-# **              by Bijan Sayyafzadeh & Silvia Mazzoni                 **
+# **                     by Bijan Sayyafzadeh                           **
 # **                                                                    **
 # **                                                                    **
-# ** (C) Copyright 2022, Bijan Sayyafzadeh & Silvia Mazzoni             **
-# **       SilviaBrainery.com                                           **
+# ** (C) Copyright 2022, Bijan Sayyafzadeh                              **
 # ** All Rights Reserved.                                               **
 # **                                                                    **
 # ** Commercial use of this program without express permission of the   **
-# ** https://www.silviasbrainery.com/ (BraineryWiz@Gmail.com), is       **
+# ** (BraineryWiz@Gmail.com), is                                        **
 # ** strictly prohibited.  See file 'COPYRIGHT'  in main directory      **
 # ** for information on usage and redistribution,  and for a            **
 # ** DISCLAIMER OF ALL WARRANTIES.                                      **
 # **                                                                    **
 # ** Developed by:                                                      **
 # **   Bijan SayyafZadeh (B.Sayyaf@yahoo.com)                           **
-# **   SilviaMazzoni     (SilviaMazzoni@Yahoo.com)                      **
 # **                                                                    **
 # ** ****************************************************************** */
 
